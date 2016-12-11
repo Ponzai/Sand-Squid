@@ -8,3 +8,9 @@ province;red;green;blue;x;x
 7;255;238;0;Farlands;x
 8;187;255;0;Northeastlands;x
 9;0;48;241;0;Eastlands;x
+10;10;153;220;SRiver1;x
+11;17;116;162;SRiver2;x
+12;52;118;119;SRiver3;x
+13;52;118;239;SRiver4;x
+14;113;118;239;MRiver1;x
+15;113;156;239;NRiver1;x
