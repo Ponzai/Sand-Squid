@@ -1,5 +1,5 @@
-name="SandSquid"
-path="mod/SandSquid"
-
-
-supported_version="2.6*"
+name = "SandSquid"
+path = "mod/SandSquid"
+replace_path = "common/trade_routes"
+replace_path = "history"
+supported_version = "2.6*"
