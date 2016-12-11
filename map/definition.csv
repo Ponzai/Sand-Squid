@@ -1,0 +1,10 @@
+province;red;green;blue;x;x
+1;0;50;50;SouthernMountains;x
+2;50;0;50;WesternMountains;x
+3;50;50;0;EasternMountains;x
+4;50;50;50;LonelyMountain;x
+5;102;255;0;Westlands;x
+6;0;238;255;Northlands;x
+7;255;238;0;Farlands;x
+8;187;255;0;Northeastlands;x
+9;0;48;241;0;Eastlands;x
